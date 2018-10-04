@@ -1,0 +1,5418 @@
+{
+  "games" : [ {
+    "gameName" : "X-Wing",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Nu Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5267,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5268,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5269,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5270,
+          "optionName" : "Title:XG-1 Assault Configuration",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5271,
+          "optionName" : "Title:Os-1 Arsenal Loadout",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Alpha-class Star Wing",
+        "unitCost" : 18,
+        "unitID" : 5314,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Rho Squadron Veteran",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5435,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5479,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5659,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5714,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5948,
+          "optionName" : "Title:XG-1 Assault Configuration",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5950,
+          "optionName" : "Title:Os-1 Arsenal Loadout",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Alpha-class Star Wing",
+        "unitCost" : 21,
+        "unitID" : 5315,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lietutenant Karsabi",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5436,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5570,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5660,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5937,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5949,
+          "optionName" : "Title:XG-1 Assault Configuration",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5951,
+          "optionName" : "Title:Os-1 Arsenal Loadout",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Alpha-class Star Wing",
+        "unitCost" : 24,
+        "unitID" : 5316,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Major Vynder",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5450,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5619,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5674,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5944,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5952,
+          "optionName" : "Title:Os-1 Arsenal Loadout",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5953,
+          "optionName" : "Title:XG-1 Assault Configuration",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Alpha-class Star Wing",
+        "unitCost" : 26,
+        "unitID" : 5317,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Bounty Hunter",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6340,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6341,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6342,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6343,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6356,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6360,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6364,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6368,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 33,
+        "unitID" : 5318,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Krassis Trelix",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6344,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6347,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6350,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6353,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6357,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6361,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6365,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6369,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 36,
+        "unitID" : 5319,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kath Scarlet",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6345,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6348,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6351,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6354,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6358,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6362,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6366,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6370,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6372,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 38,
+        "unitID" : 5320,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Boba Fett",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6346,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6349,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6352,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6355,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6359,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6363,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6367,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6371,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6373,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 39,
+        "unitID" : 5321,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Omicron Group Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6374,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6378,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6382,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6389,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6390,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6394,
+          "optionName" : "Title:ST-321",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lambda-class Shuttle",
+        "unitCost" : 21,
+        "unitID" : 5322,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Captain Yorr",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6375,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6379,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6383,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6388,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6391,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6395,
+          "optionName" : "Title:ST-321",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lambda-class Shuttle",
+        "unitCost" : 24,
+        "unitID" : 5323,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Colonel Jendon",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6376,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6380,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6384,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6387,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6392,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6396,
+          "optionName" : "Title:ST-321",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lambda-class Shuttle",
+        "unitCost" : 26,
+        "unitID" : 5324,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Captain Kagi",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6377,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6381,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6385,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6386,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6393,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6397,
+          "optionName" : "Title:ST-321",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lambda-class Shuttle",
+        "unitCost" : 27,
+        "unitID" : 5325,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tempest Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6398,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6406,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6414,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7432,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7602,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 21,
+        "unitID" : 5326,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lieutenant Colzet",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6399,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6407,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6415,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7433,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7603,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 23,
+        "unitID" : 5327,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Storm Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6400,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6408,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6416,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7434,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7604,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 23,
+        "unitID" : 5328,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Commander Alozen",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6401,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6409,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6417,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6422,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7435,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7605,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 25,
+        "unitID" : 5329,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Zertik Storm",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6402,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6410,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6418,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6423,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7436,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7606,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 26,
+        "unitID" : 5330,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Maarek Stele",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6403,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6411,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6419,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6424,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7437,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7607,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 27,
+        "unitID" : 5331,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Juno Eclipse",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6404,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6412,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6420,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6425,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7438,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7608,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 28,
+        "unitID" : 5332,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Darth Vader",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6405,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6413,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6421,
+          "optionName" : "Title:TIE/x1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6426,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7439,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7609,
+          "optionName" : "Advanced Targeting Computer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced",
+        "unitCost" : 29,
+        "unitID" : 5333,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sienar Test Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6427,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6431,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6435,
+          "optionName" : "Title:TIE/v1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7440,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced Prototype",
+        "unitCost" : 16,
+        "unitID" : 5334,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Baron of the Empire",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6428,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6432,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6436,
+          "optionName" : "Title:TIE/v1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6439,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7441,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced Prototype",
+        "unitCost" : 19,
+        "unitID" : 5335,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Valen Rudor",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6429,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6433,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6437,
+          "optionName" : "Title:TIE/v1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6440,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7442,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced Prototype",
+        "unitCost" : 22,
+        "unitID" : 5336,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "The Inquisitor",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6430,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6434,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6438,
+          "optionName" : "Title:TIE/v1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6441,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7443,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Advanced Prototype",
+        "unitCost" : 25,
+        "unitID" : 5337,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sienar Specialist",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6442,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6449,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6450,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7444,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Aggressor",
+        "unitCost" : 17,
+        "unitID" : 5338,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Double Edge\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6443,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6448,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6451,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6454,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7445,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Aggressor",
+        "unitCost" : 19,
+        "unitID" : 5339,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Onyx Squadron Escort",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6444,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6447,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6452,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7446,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Aggressor",
+        "unitCost" : 19,
+        "unitID" : 5340,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lieutenant Kestal",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6445,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6446,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6453,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6456,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7447,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Aggressor",
+        "unitCost" : 22,
+        "unitID" : 5341,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Scimitar Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6457,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6464,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6471,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6478,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6485,
+          "optionName" : "Title:TIE Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7448,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Bomber",
+        "unitCost" : 16,
+        "unitID" : 5342,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Deathfire\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6458,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6465,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6472,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6479,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6486,
+          "optionName" : "Title:TIE Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7449,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Bomber",
+        "unitCost" : 17,
+        "unitID" : 5343,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Gamma Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6459,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6466,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6473,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6480,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6487,
+          "optionName" : "Title:TIE Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7450,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Bomber",
+        "unitCost" : 18,
+        "unitID" : 5344,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Gamma Squadron Veteran",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6460,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6467,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6474,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6481,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6488,
+          "optionName" : "Title:TIE Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6492,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7451,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Bomber",
+        "unitCost" : 19,
+        "unitID" : 5345,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Captain Jonus",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6461,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6468,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6475,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6482,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6489,
+          "optionName" : "Title:TIE Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6493,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7452,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Bomber",
+        "unitCost" : 22,
+        "unitID" : 5346,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tomax Bren",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6462,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6469,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6476,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6483,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6490,
+          "optionName" : "Title:TIE Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6494,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7453,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Bomber",
+        "unitCost" : 24,
+        "unitID" : 5347,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Major Rhymer",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6463,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6470,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6477,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6484,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6491,
+          "optionName" : "Title:TIE Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6495,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7454,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Bomber",
+        "unitCost" : 26,
+        "unitID" : 5348,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Delta Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6496,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6503,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6510,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 6517,
+          "optionName" : "Title:TIE/x7",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6524,
+          "optionName" : "Title:TIE/D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7455,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Defender",
+        "unitCost" : 30,
+        "unitID" : 5349,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Onyx Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6497,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6504,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6511,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 6518,
+          "optionName" : "Title:TIE/x7",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6525,
+          "optionName" : "Title:TIE/D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7456,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Defender",
+        "unitCost" : 32,
+        "unitID" : 5350,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Countess Ryad",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6498,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6505,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6512,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 6519,
+          "optionName" : "Title:TIE/x7",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6526,
+          "optionName" : "Title:TIE/D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6531,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7457,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Defender",
+        "unitCost" : 34,
+        "unitID" : 5351,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Glaive Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6499,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6506,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6513,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 6520,
+          "optionName" : "Title:TIE/x7",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6527,
+          "optionName" : "Title:TIE/D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6532,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7458,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Defender",
+        "unitCost" : 34,
+        "unitID" : 5352,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Colonel Vessery",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6500,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6507,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6514,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 6521,
+          "optionName" : "Title:TIE/x7",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6528,
+          "optionName" : "Title:TIE/D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6533,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7459,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Defender",
+        "unitCost" : 35,
+        "unitID" : 5353,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Maarek Stele",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6501,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6508,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6515,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 6522,
+          "optionName" : "Title:TIE/x7",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6529,
+          "optionName" : "Title:TIE/D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6534,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7460,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Defender",
+        "unitCost" : 35,
+        "unitID" : 5354,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Rexler Brath",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6502,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6509,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6516,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 6523,
+          "optionName" : "Title:TIE/x7",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6530,
+          "optionName" : "Title:TIE/D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6535,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7461,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Defender",
+        "unitCost" : 37,
+        "unitID" : 5355,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Academy Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6536,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7462,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 12,
+        "unitID" : 5356,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Obsidian Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6537,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7463,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 13,
+        "unitID" : 5357,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6538,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6549,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7464,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 14,
+        "unitID" : 5358,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Chaser\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6539,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7465,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 14,
+        "unitID" : 5359,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Wampa\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6540,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7466,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 14,
+        "unitID" : 5360,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Night Beast\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6541,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7467,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 15,
+        "unitID" : 5361,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Winged Gundark\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6542,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7468,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 15,
+        "unitID" : 5362,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Youngster\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6543,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6550,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7469,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 15,
+        "unitID" : 5363,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Backstabber\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6544,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7470,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 16,
+        "unitID" : 5364,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Dark Curse\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6545,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7471,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 16,
+        "unitID" : 5365,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Mauler Mithel\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6546,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6551,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7472,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 17,
+        "unitID" : 5366,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Scourge\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6547,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6552,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7473,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 17,
+        "unitID" : 5367,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Howlrunner\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6548,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6553,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7474,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Fighter",
+        "unitCost" : 18,
+        "unitID" : 5368,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Alpha Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6554,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7475,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 18,
+        "unitID" : 5369,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Avenger Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6555,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7476,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 20,
+        "unitID" : 5370,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Saber Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6556,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6573,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7477,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 21,
+        "unitID" : 5371,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Royal Guard Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6557,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6565,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6574,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7478,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 22,
+        "unitID" : 5372,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Fel's Wrath\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6558,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6566,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7479,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 23,
+        "unitID" : 5373,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lieutenant Lorrir",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6559,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6567,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7480,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 23,
+        "unitID" : 5374,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kir Kanos",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6560,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6568,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7481,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 24,
+        "unitID" : 5375,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tetran Cowall",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6561,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6569,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6575,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7482,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 24,
+        "unitID" : 5376,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Turr Phennir",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6562,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6570,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6576,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7483,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 25,
+        "unitID" : 5377,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Carnor Jax",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6563,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6571,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6577,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7484,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 26,
+        "unitID" : 5378,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Soontir Fel",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6564,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6572,
+          "optionName" : "Title:Royal Guard TIE",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6578,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7485,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Interceptor",
+        "unitCost" : 27,
+        "unitID" : 5379,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sigma Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6579,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6586,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6587,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6594,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7486,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 7551,
+          "optionName" : "Advanced Cloaking Device",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Phantom",
+        "unitCost" : 25,
+        "unitID" : 5380,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Shadow Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6580,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6585,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6588,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6593,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7487,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 7550,
+          "optionName" : "Advanced Cloaking Device",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Phantom",
+        "unitCost" : 27,
+        "unitID" : 5381,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Echo\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6581,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6584,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6589,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6592,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6595,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7488,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 7549,
+          "optionName" : "Advanced Cloaking Device",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Phantom",
+        "unitCost" : 30,
+        "unitID" : 5382,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Whisper\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6582,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6583,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6590,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6591,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6596,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7489,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 7548,
+          "optionName" : "Advanced Cloaking Device",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Phantom",
+        "unitCost" : 32,
+        "unitID" : 5383,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Cutlass Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6597,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6601,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6605,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6612,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6613,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7490,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Punisher",
+        "unitCost" : 21,
+        "unitID" : 5384,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Eight Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6598,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6602,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6606,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6611,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6614,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7491,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Punisher",
+        "unitCost" : 23,
+        "unitID" : 5385,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Deathrain\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6599,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6603,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6607,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6610,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6615,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7492,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Punisher",
+        "unitCost" : 26,
+        "unitID" : 5386,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Redline\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6600,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6604,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6608,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6609,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6616,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7493,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Punisher",
+        "unitCost" : 27,
+        "unitID" : 5387,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Scarif Base Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6617,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6621,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6628,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6629,
+          "optionName" : "Title:Advanced Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7494,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Reaper",
+        "unitCost" : 22,
+        "unitID" : 5388,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Vizier\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6618,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6622,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6627,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6630,
+          "optionName" : "Title:Advanced Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7495,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Reaper",
+        "unitCost" : 23,
+        "unitID" : 5389,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Captain Feroph",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6619,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6623,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6626,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6631,
+          "optionName" : "Title:Advanced Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6633,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7496,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Reaper",
+        "unitCost" : 24,
+        "unitID" : 5390,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Major Vermeil",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6620,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6624,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6625,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6632,
+          "optionName" : "Title:Advanced Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6634,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7497,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Reaper",
+        "unitCost" : 26,
+        "unitID" : 5391,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sienar-Jaemus Analyst",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6635,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6639,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6643,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6647,
+          "optionName" : "Title:First Order Vanguard",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7498,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Silencer",
+        "unitCost" : 26,
+        "unitID" : 5392,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "First Order Test Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6636,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6640,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6644,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6648,
+          "optionName" : "Title:First Order Vanguard",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6651,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7499,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Silencer",
+        "unitCost" : 29,
+        "unitID" : 5393,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Test Pilot \"Blackout\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6637,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6641,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6645,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6649,
+          "optionName" : "Title:First Order Vanguard",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6652,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7500,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Silencer",
+        "unitCost" : 31,
+        "unitID" : 5394,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kylo Ren",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6638,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6642,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6646,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6650,
+          "optionName" : "Title:First Order Vanguard",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6653,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7501,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Silencer",
+        "unitCost" : 35,
+        "unitID" : 5395,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Imperial Trainee",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6654,
+          "optionName" : "Title:Adaptive Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6660,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7502,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Stricker",
+        "unitCost" : 17,
+        "unitID" : 5396,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Scarif Defender",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6655,
+          "optionName" : "Title:Adaptive Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6661,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7503,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Stricker",
+        "unitCost" : 18,
+        "unitID" : 5397,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Squadron Scout",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6656,
+          "optionName" : "Title:Adaptive Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6662,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6666,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7504,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Stricker",
+        "unitCost" : 20,
+        "unitID" : 5398,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Countdown\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6657,
+          "optionName" : "Title:Adaptive Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6663,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7505,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Stricker",
+        "unitCost" : 20,
+        "unitID" : 5399,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Pure Sabacc\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6658,
+          "optionName" : "Title:Adaptive Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6664,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6667,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7506,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Stricker",
+        "unitCost" : 22,
+        "unitID" : 5400,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Duchess\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6659,
+          "optionName" : "Title:Adaptive Ailerons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6665,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6668,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7507,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE Stricker",
+        "unitCost" : 23,
+        "unitID" : 5401,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Epsilon Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6669,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6686,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7508,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 15,
+        "unitID" : 5402,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Zelta Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6670,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6685,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7509,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 16,
+        "unitID" : 5403,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Epsilon Ace\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6671,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6684,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7510,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 17,
+        "unitID" : 5404,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Omega Squadron Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6672,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6683,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6687,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7511,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 17,
+        "unitID" : 5405,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Zelta Ace\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6673,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6682,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6688,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7512,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 18,
+        "unitID" : 5406,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Epsilon Leader\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6674,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6681,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7513,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 19,
+        "unitID" : 5407,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Omega Ace\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6675,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6680,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6689,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7514,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 20,
+        "unitID" : 5408,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Zelta Leader\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6676,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6679,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6690,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7515,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 20,
+        "unitID" : 5409,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Omega Leader\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6677,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6678,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6691,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7516,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/fo Fighter",
+        "unitCost" : 21,
+        "unitID" : 5411,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Zelta Specialist",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6692,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6699,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6700,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6707,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6708,
+          "optionName" : "Title:Special Ops Training",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7517,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/sf Fighter",
+        "unitCost" : 23,
+        "unitID" : 5412,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Omega Specialist",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6693,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6698,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6701,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6706,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6709,
+          "optionName" : "Title:Special Ops Training",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6712,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7518,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/sf Fighter",
+        "unitCost" : 25,
+        "unitID" : 5413,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Backdraft\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6694,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6697,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6702,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6705,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6710,
+          "optionName" : "Title:Special Ops Training",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6713,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7519,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/sf Fighter",
+        "unitCost" : 27,
+        "unitID" : 5414,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "\"Quickdraw\"",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6695,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6696,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6703,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6704,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6711,
+          "optionName" : "Title:Special Ops Training",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6714,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7520,
+          "optionName" : "Twin Ion Engine Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "TIE/sf Fighter",
+        "unitCost" : 29,
+        "unitID" : 5415,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Starkiller Base Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6715,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6722,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6723,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6730,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6731,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6738,
+          "optionName" : "Title:Kylo Ren's Shuttle",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Upsilon-class Shuttle",
+        "unitCost" : 30,
+        "unitID" : 5416,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lieutenant Dormitz",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6716,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6721,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6724,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6729,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6732,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6737,
+          "optionName" : "Title:Kylo Ren's Shuttle",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Upsilon-class Shuttle",
+        "unitCost" : 31,
+        "unitID" : 5417,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Major Stridan",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6717,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6720,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6725,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6728,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6733,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6736,
+          "optionName" : "Title:Kylo Ren's Shuttle",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Upsilon-class Shuttle",
+        "unitCost" : 32,
+        "unitID" : 5418,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kylo Ren",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6718,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6719,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6726,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6727,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6734,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6735,
+          "optionName" : "Title:Kylo Ren's Shuttle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6739,
+          "optionName" : "$Elite Talent Point",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Upsilon-class Shuttle",
+        "unitCost" : 34,
+        "unitID" : 5419,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Patrol Leader",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6740,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6747,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6748,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6755,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6756,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6763,
+          "optionName" : "Title:Dauntless",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "VT-49 Decimator",
+        "unitCost" : 40,
+        "unitID" : 5420,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Captain Oicunn",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6741,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6746,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6749,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6754,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6757,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6762,
+          "optionName" : "Title:Dauntless",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "VT-49 Decimator",
+        "unitCost" : 42,
+        "unitID" : 5421,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Commander Kenkirk",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6742,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6745,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6750,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6753,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6758,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6761,
+          "optionName" : "Title:Dauntless",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "VT-49 Decimator",
+        "unitCost" : 44,
+        "unitID" : 5422,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Rear Admiral Chiraneau",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6743,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6744,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6751,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6752,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6759,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6760,
+          "optionName" : "Title:Dauntless",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "VT-49 Decimator",
+        "unitCost" : 46,
+        "unitID" : 5423,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Gozanti-class Cruiser",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6765,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6766,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6767,
+          "optionName" : "$Empire Crew(Huge Ship)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6768,
+          "optionName" : "$Crew(Huge Ship)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6769,
+          "optionName" : "$Hardpoint",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6770,
+          "optionName" : "$Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6771,
+          "optionName" : "$Cargo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6772,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6773,
+          "optionName" : "Title:Vector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6774,
+          "optionName" : "Title:Requiem",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6775,
+          "optionName" : "Title:Suppressor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7597,
+          "optionName" : "Docking Clamps",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7598,
+          "optionName" : "Broadcast Array",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7600,
+          "optionName" : "Dual Laser Turret",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Gozanti-class Cruiser",
+        "unitCost" : 40,
+        "unitID" : 6764,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Raider-class Corvette(Aft)",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6778,
+          "optionName" : "$Empire Crew(Huge Ship)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6779,
+          "optionName" : "$Empire Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6780,
+          "optionName" : "$Crew(Huge Ship)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6781,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6782,
+          "optionName" : "$Hardpoint",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6783,
+          "optionName" : "$Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6784,
+          "optionName" : "$Cargo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6785,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6786,
+          "optionName" : "Title:Assailer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6787,
+          "optionName" : "Title:Impetuous",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6788,
+          "optionName" : "Title:Instigator",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Raider-class Corvette",
+        "unitCost" : 50,
+        "unitID" : 6776,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Raider-class Corvette(Fore)",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6789,
+          "optionName" : "$Hardpoint",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6790,
+          "optionName" : "$Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6791,
+          "optionName" : "$Cargo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6792,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Raider-class Corvette",
+        "unitCost" : 50,
+        "unitID" : 6777,
+        "autoAddDictionary" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5636,
+          "optionName" : "Agent Kallus",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5637,
+          "optionName" : "Tactical Officer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5638,
+          "optionName" : "Fleet Officer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5639,
+          "optionName" : "Mara Jade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5640,
+          "optionName" : "Darth Vader",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5641,
+          "optionName" : "Rebel Captive",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5642,
+          "optionName" : "Kylo Ren",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5643,
+          "optionName" : "IBS Slicer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5644,
+          "optionName" : "Death Troopers",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5645,
+          "optionName" : "Ysanne Isard",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5646,
+          "optionName" : "Director Krennic",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5647,
+          "optionName" : "General Hux",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 5648,
+          "optionName" : "Emperor Palpatine",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5649,
+          "optionName" : "Moff Jerjerrod",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5650,
+          "optionName" : "Systems Officer",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Empire Crew"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5629,
+          "optionName" : "Captain Needa",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5630,
+          "optionName" : "Rear Admiral Chiraneau",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 5631,
+          "optionName" : "Grand Moff Tarkin",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5632,
+          "optionName" : "Admiral Ozzel",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Empire Crew(Huge Ship)"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5666,
+          "optionName" : "XX-23 S-thread tracers",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5668,
+          "optionName" : "Scrambler missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5670,
+          "optionName" : "Unguided rockets",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5672,
+          "optionName" : "Advanced homing missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5675,
+          "optionName" : "Cruise missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5677,
+          "optionName" : "Ion pulse missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5679,
+          "optionName" : "Proton rockets",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5681,
+          "optionName" : "Cluster missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5683,
+          "optionName" : "Concussion missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5685,
+          "optionName" : "Harpoon missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5687,
+          "optionName" : "Assault missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5689,
+          "optionName" : "Homing missiles",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Missile"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5065,
+          "optionName" : "Extra munitions",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5068,
+          "optionName" : "Flechette torpedoes",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5081,
+          "optionName" : "Seismic torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5084,
+          "optionName" : "Plasma torpedos",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5087,
+          "optionName" : "Proton torpedos",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 5090,
+          "optionName" : "Advanced proton torpedos",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5094,
+          "optionName" : "Ion torpedos",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Torpedo"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5096,
+          "optionName" : "Guidance chips",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5159,
+          "optionName" : "Munitions Failsafe",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5250,
+          "optionName" : "Advanced SLAM",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5260,
+          "optionName" : "Stygium particle accelerator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5261,
+          "optionName" : "Targeting Computer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5262,
+          "optionName" : "Experimental interface",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5263,
+          "optionName" : "Hull upgrade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5264,
+          "optionName" : "Stealth device",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5265,
+          "optionName" : "Engine upgrade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5266,
+          "optionName" : "Shield upgrade",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Modification"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5272,
+          "optionName" : "Adaptability",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5273,
+          "optionName" : "Trick Shot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5274,
+          "optionName" : "A score to settle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5275,
+          "optionName" : "Adrenaline Rush",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5276,
+          "optionName" : "Veteran Instincts",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5277,
+          "optionName" : "Draw their fire",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5278,
+          "optionName" : "Determination",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5279,
+          "optionName" : "Calculation",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5280,
+          "optionName" : "Cool Hand",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5281,
+          "optionName" : "Wired",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5282,
+          "optionName" : "Rage",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5283,
+          "optionName" : "Crack Shot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5284,
+          "optionName" : "Saturation Salvo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5285,
+          "optionName" : "Intimidation",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5286,
+          "optionName" : "Stay on target",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5287,
+          "optionName" : "Lone Wolf",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5288,
+          "optionName" : "Decoy",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5289,
+          "optionName" : "Wingman",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5290,
+          "optionName" : "Squad Leader",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5291,
+          "optionName" : "Elusivness",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5292,
+          "optionName" : "Expert Handling",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5293,
+          "optionName" : "Swarm tactics",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5294,
+          "optionName" : "Snap shot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5295,
+          "optionName" : "Predator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5296,
+          "optionName" : "Outmaneuver",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5297,
+          "optionName" : "Daredevil",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5298,
+          "optionName" : "Push the limit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5299,
+          "optionName" : "Marksmanship",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5300,
+          "optionName" : "Swarm leader",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5301,
+          "optionName" : "Opportunist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5302,
+          "optionName" : "Expose",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5303,
+          "optionName" : "Expertise",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7556,
+          "optionName" : "Ruthlessness",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Elite Talent Point"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5954,
+          "optionName" : "Shield Technician",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5955,
+          "optionName" : "WED-15 Repair Droid",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6247,
+          "optionName" : "Construction Droid",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Crew(Huge Ship)"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6248,
+          "optionName" : "Gunner",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6249,
+          "optionName" : "Hotshot Co-pilot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6250,
+          "optionName" : "Flight Instructor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6251,
+          "optionName" : "Weapons Engineer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6252,
+          "optionName" : "Recon Specialist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6253,
+          "optionName" : "Navigator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6254,
+          "optionName" : "Breach Specialist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6255,
+          "optionName" : "Bombardier",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6256,
+          "optionName" : "Intelligence Agent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6257,
+          "optionName" : "Saboteur",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6258,
+          "optionName" : "Mercenary Co-pilot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6259,
+          "optionName" : "BoShek",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6260,
+          "optionName" : "Targeting Coordinator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6261,
+          "optionName" : "Operations Specialist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6262,
+          "optionName" : "Courier Droid",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6263,
+          "optionName" : "Tactician",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Crew"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6264,
+          "optionName" : "Twin laser turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6265,
+          "optionName" : "Ion cannon turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6266,
+          "optionName" : "Synced turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6267,
+          "optionName" : "Blaster turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6268,
+          "optionName" : "Dorsal turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6269,
+          "optionName" : "Autoblaster turret",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Turret"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6270,
+          "optionName" : "Targeting Synchronizer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6271,
+          "optionName" : "Comm Relay",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6272,
+          "optionName" : "Advanced Optics",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6273,
+          "optionName" : "Pattern Analyzer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6274,
+          "optionName" : "Weapons Guidance",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6275,
+          "optionName" : "Sensor Cluster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6276,
+          "optionName" : "Hyperwave Comm Scanner",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Tech"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6277,
+          "optionName" : "Ordnance Experts",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6278,
+          "optionName" : "Sensor Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6279,
+          "optionName" : "Gunnery Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6280,
+          "optionName" : "Engineering Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6281,
+          "optionName" : "IG-RM Thug Droids",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6290,
+          "optionName" : "Collision Detector",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Team"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6291,
+          "optionName" : "\"Hot Shot\" Blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6292,
+          "optionName" : "Ion Discharger",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6293,
+          "optionName" : "EMP Device",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6294,
+          "optionName" : "Scavenger Crane",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6295,
+          "optionName" : "Feedback Array",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6296,
+          "optionName" : "Dead Man's Switch",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6297,
+          "optionName" : "Glitterstim",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6299,
+          "optionName" : "Contraband Cybernetics",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6300,
+          "optionName" : "Black Market Slicer Tools",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6301,
+          "optionName" : "Inertial Dampeners",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Illicit"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6302,
+          "optionName" : "Quad Laser Cannons",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6303,
+          "optionName" : "Ion Cannon Battery",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 6304,
+          "optionName" : "Single Turbolasers",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Hardpoint"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6305,
+          "optionName" : "Tibanna Gas Supplies",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6306,
+          "optionName" : "Ionization Reactor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6307,
+          "optionName" : "Frequency Jammer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6308,
+          "optionName" : "Supercharged Power Cells",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6309,
+          "optionName" : "EM Emitter",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6310,
+          "optionName" : "Backup Shield Generator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6311,
+          "optionName" : "Engine Booster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 6312,
+          "optionName" : "Slicer Tools",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6313,
+          "optionName" : "Cluster Bombs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6314,
+          "optionName" : "Comms Booster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6315,
+          "optionName" : "Shield Projector",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Cargo"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 6316,
+          "optionName" : "Heavy Laser Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6317,
+          "optionName" : "Autoblaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6318,
+          "optionName" : "\"Mangler\" Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6319,
+          "optionName" : "Ion Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6320,
+          "optionName" : "Flechette Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6321,
+          "optionName" : "Jamming Beam",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6322,
+          "optionName" : "Tractor Beam",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Cannon"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6323,
+          "optionName" : "Bomblet Generator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6324,
+          "optionName" : "Proton Bombs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6325,
+          "optionName" : "Conner Net",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6326,
+          "optionName" : "Cluster Mines",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6327,
+          "optionName" : "Thermal Detonators",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6328,
+          "optionName" : "Proximity Mines",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6329,
+          "optionName" : "Ion Bombs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6330,
+          "optionName" : "Seismic Charges",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Bomb"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6331,
+          "optionName" : "Sensor Jammer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6332,
+          "optionName" : "Advanced Sensors",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6333,
+          "optionName" : "Accuracy Corrector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6334,
+          "optionName" : "Fire Control System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6335,
+          "optionName" : "Trajectory Simulator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6336,
+          "optionName" : "Electronic Baffle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6337,
+          "optionName" : "Enchanced Scopes",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6338,
+          "optionName" : "Minefield Mapper",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6339,
+          "optionName" : "Collision Detector",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$System"
+      } ],
+      "armyName" : "Galactic Empire",
+      "armyCategories" : [ "Alpha-class Star Wing", "Firespray-31", "Lambda-class Shuttle", "TIE Advanced", "TIE Advanced Prototype", "TIE Aggressor", "TIE Bomber", "TIE Defender", "TIE Fighter", "TIE Interceptor", "TIE Phantom", "TIE Punisher", "TIE Reaper", "TIE Silencer", "TIE Striker", "TIE/fo Fighter", "TIE/sf Fighter", "Upsilon-class Shuttle", "VT-49 Decimator", "Gozanti-class Cruiser", "Raider-class Corvette" ]
+    } ],
+    "gameCategories" : [ ]
+  } ]
+}

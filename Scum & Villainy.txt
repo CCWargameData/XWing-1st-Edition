@@ -1,0 +1,4495 @@
+{
+  "games" : [ {
+    "gameName" : "X-Wing",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Zuckuss",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6998,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6999,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7006,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7007,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7014,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7015,
+          "optionName" : "Title:Mist Hunter",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7021,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "G-1A Starfighter",
+        "unitCost" : 28,
+        "unitID" : 5493,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "4-Lom",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6997,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7000,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7005,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7008,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7013,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7016,
+          "optionName" : "Title:Mist Hunter",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7020,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "G-1A Starfighter",
+        "unitCost" : 27,
+        "unitID" : 5494,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Gand Findsman",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6996,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7001,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7004,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7009,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7012,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7017,
+          "optionName" : "Title:Mist Hunter",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7019,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "G-1A Starfighter",
+        "unitCost" : 25,
+        "unitID" : 5495,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Ruthless Freelancer",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6995,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7002,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7003,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7010,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7011,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7018,
+          "optionName" : "Title:Mist Hunter",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "G-1A Starfighter",
+        "unitCost" : 23,
+        "unitID" : 5496,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Dace Bonearm",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7025,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7026,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7033,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7034,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7041,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7042,
+          "optionName" : "Title:Moldy Crow",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7047,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HWK-290",
+        "unitCost" : 23,
+        "unitID" : 5497,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Palob Godalhi",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7024,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7027,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7032,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7035,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7040,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7043,
+          "optionName" : "Title:Moldy Crow",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7046,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HWK-290",
+        "unitCost" : 20,
+        "unitID" : 5500,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Torkil Mux",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7023,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7028,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7031,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7036,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7039,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7044,
+          "optionName" : "Title:Moldy Crow",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HWK-290",
+        "unitCost" : 19,
+        "unitID" : 5501,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Spice Runner",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7022,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7029,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7030,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7037,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7038,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7045,
+          "optionName" : "Title:Moldy Crow",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "HWK-290",
+        "unitCost" : 16,
+        "unitID" : 5502,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Talonbane Cobra",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7077,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7078,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7085,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7086,
+          "optionName" : "Title:Vaksai",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7091,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Kihraxz Fighter",
+        "unitCost" : 28,
+        "unitID" : 5503,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Graz The Hunter",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7076,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7079,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7084,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7087,
+          "optionName" : "Title:Vaksai",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Kihraxz Fighter",
+        "unitCost" : 25,
+        "unitID" : 5504,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Sun Ace",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7075,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7080,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7083,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7088,
+          "optionName" : "Title:Vaksai",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7090,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Kihraxz Fighter",
+        "unitCost" : 23,
+        "unitID" : 5505,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Cartel Marauder",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7074,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7081,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7082,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7089,
+          "optionName" : "Title:Vaksai",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Kihraxz Fighter",
+        "unitCost" : 20,
+        "unitID" : 5506,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Serissu",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7154,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7155,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7162,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7163,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7170,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7172,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 20,
+        "unitID" : 5507,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Laetin A'Shera",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7153,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7156,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7161,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7164,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7169,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 18,
+        "unitID" : 5509,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tansarii Point Veteran",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7152,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7157,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7160,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7165,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7168,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7171,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 17,
+        "unitID" : 5510,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Cartel Spacer",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7151,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7158,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7159,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7166,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7167,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 14,
+        "unitID" : 5511,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Torani Kulda",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7127,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7128,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7135,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7136,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7143,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7144,
+          "optionName" : "Title:Enforcer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7150,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M12-L Kimogila Fighter",
+        "unitCost" : 27,
+        "unitID" : 5512,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Dalan Oberos",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7126,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7129,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7134,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7137,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7142,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7145,
+          "optionName" : "Title:Enforcer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7149,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M12-L Kimogila Fighter",
+        "unitCost" : 25,
+        "unitID" : 5513,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Cartel Executioner",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7125,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7130,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7133,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7138,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7141,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7146,
+          "optionName" : "Title:Enforcer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7148,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M12-L Kimogila Fighter",
+        "unitCost" : 24,
+        "unitID" : 5514,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Cartel Brute",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7124,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7131,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7132,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7139,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7140,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7147,
+          "optionName" : "Title:Enforcer",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M12-L Kimogila Fighter",
+        "unitCost" : 22,
+        "unitID" : 5515,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Fenn Rau",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7201,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7202,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7213,
+          "optionName" : "Title:Concord Dawn Protector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7218,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Protectorate Starfighter",
+        "unitCost" : 28,
+        "unitID" : 5516,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Old Teroch",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7200,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7203,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7212,
+          "optionName" : "Title:Concord Dawn Protector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7217,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Protectorate Starfighter",
+        "unitCost" : 26,
+        "unitID" : 5517,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kad Solus",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7199,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7204,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7211,
+          "optionName" : "Title:Concord Dawn Protector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7216,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Protectorate Starfighter",
+        "unitCost" : 25,
+        "unitID" : 5518,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Concord Dawn Ace",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7198,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7205,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7210,
+          "optionName" : "Title:Concord Dawn Protector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7215,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Protectorate Starfighter",
+        "unitCost" : 23,
+        "unitID" : 5519,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Concord Dawn Veteran",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7197,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7206,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7209,
+          "optionName" : "Title:Concord Dawn Protector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7214,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Protectorate Starfighter",
+        "unitCost" : 22,
+        "unitID" : 5520,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Zealous Recruit",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7196,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7207,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7208,
+          "optionName" : "Title:Concord Dawn Protector",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Protectorate Starfighter",
+        "unitCost" : 20,
+        "unitID" : 5521,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Constable Zuvio",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7222,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7223,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7230,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7231,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7238,
+          "optionName" : "$llicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7239,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7244,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7543,
+          "optionName" : "Spacetug Tractor Array",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Quadjumper",
+        "unitCost" : 19,
+        "unitID" : 5522,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sarco Plank",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7221,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7224,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7229,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7232,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7237,
+          "optionName" : "$llicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7240,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7243,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7541,
+          "optionName" : "Spacetug Tractor Array",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Quadjumper",
+        "unitCost" : 18,
+        "unitID" : 5523,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Unkar Plutt",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7220,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7225,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7228,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7233,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7236,
+          "optionName" : "$llicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7241,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7540,
+          "optionName" : "Spacetug Tractor Array",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Quadjumper",
+        "unitCost" : 17,
+        "unitID" : 5524,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Jakku Gunrunner",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7219,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7226,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7227,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7234,
+          "optionName" : "$Tech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7235,
+          "optionName" : "$llicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7242,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7539,
+          "optionName" : "Spacetug Tractor Array",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Quadjumper",
+        "unitCost" : 15,
+        "unitID" : 5525,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Captain Nym",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7248,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7252,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7253,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7260,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7261,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7269,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7270,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7277,
+          "optionName" : "Title:Havoc",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7280,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Scurrg H-6 Bomber",
+        "unitCost" : 30,
+        "unitID" : 5526,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sol Sixxa",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7247,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7251,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7254,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7259,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7262,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7268,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7271,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7276,
+          "optionName" : "Title:Havoc",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7279,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Scurrg H-6 Bomber",
+        "unitCost" : 28,
+        "unitID" : 5527,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Lok Revenant",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7246,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7250,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7255,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7258,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7263,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7266,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7272,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7275,
+          "optionName" : "Title:Havoc",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7278,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Scurrg H-6 Bomber",
+        "unitCost" : 26,
+        "unitID" : 5528,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Karthakk Pilot",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7245,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7249,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7256,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7257,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7264,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7265,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7273,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7274,
+          "optionName" : "Title:Havoc",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Scurrg H-6 Bomber",
+        "unitCost" : 24,
+        "unitID" : 5529,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Prince Xizor",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7287,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7291,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -3,
+          "listOfRestrictions" : null,
+          "optionID" : 7292,
+          "optionName" : "Title:StarViper Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7297,
+          "optionName" : "Title:Virago",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7299,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "StarViper",
+        "unitCost" : 31,
+        "unitID" : 5530,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Guri",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7286,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7290,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -3,
+          "listOfRestrictions" : null,
+          "optionID" : 7293,
+          "optionName" : "Title:StarViper Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7296,
+          "optionName" : "Title:Virago",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7298,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "StarViper",
+        "unitCost" : 30,
+        "unitID" : 5531,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Sun Vigo",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7285,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7289,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -3,
+          "listOfRestrictions" : null,
+          "optionID" : 7294,
+          "optionName" : "Title:StarViper Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "StarViper",
+        "unitCost" : 27,
+        "unitID" : 5532,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Sun Enforcer",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7284,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7288,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -3,
+          "listOfRestrictions" : null,
+          "optionID" : 7295,
+          "optionName" : "Title:StarViper Mk.II",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "StarViper",
+        "unitCost" : 25,
+        "unitID" : 5533,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kavil",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7346,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7347,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7354,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7355,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7362,
+          "optionName" : "Title:BTL-A4 Y-Wing",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7363,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Y-Wing",
+        "unitCost" : 24,
+        "unitID" : 5534,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Drea Renthal",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7345,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7348,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7353,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7356,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7361,
+          "optionName" : "Title:BTL-A4 Y-Wing",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Y-Wing",
+        "unitCost" : 22,
+        "unitID" : 5535,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Hired Gun",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7344,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7349,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7352,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7357,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7360,
+          "optionName" : "Title:BTL-A4 Y-Wing",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Y-Wing",
+        "unitCost" : 20,
+        "unitID" : 5536,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Syndicate Thug",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7343,
+          "optionName" : "$Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7350,
+          "optionName" : "$Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7351,
+          "optionName" : "$Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7358,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7359,
+          "optionName" : "Title:BTL-A4 Y-Wing",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Y-Wing",
+        "unitCost" : 18,
+        "unitID" : 5537,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "N'dru Suhlak",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7367,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7368,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7375,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7378,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Z-95 Headhunter",
+        "unitCost" : 17,
+        "unitID" : 5538,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kaa'to Leeachos",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7366,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7369,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7374,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7376,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Z-95 Headhunter",
+        "unitCost" : 15,
+        "unitID" : 5539,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Sun Soldier",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7365,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7370,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7373,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Z-95 Headhunter",
+        "unitCost" : 13,
+        "unitID" : 5540,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Binayre Pirate",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7364,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7371,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7372,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Z-95 Headhunter",
+        "unitCost" : 12,
+        "unitID" : 5541,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "IG-88A",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6282,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6286,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6932,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6933,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6940,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6941,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6948,
+          "optionName" : "Title:IG-2000",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Aggressor",
+        "unitCost" : 36,
+        "unitID" : 5542,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "IG-88B",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6283,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6287,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6856,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6934,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6939,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6942,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6947,
+          "optionName" : "Title:IG-2000",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Aggressor",
+        "unitCost" : 36,
+        "unitID" : 5543,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "IG-88C",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6284,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6288,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6455,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6935,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6938,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6943,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6946,
+          "optionName" : "Title:IG-2000",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Aggressor",
+        "unitCost" : 36,
+        "unitID" : 5544,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "IG-88D",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6285,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6289,
+          "optionName" : "$System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6298,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6936,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6937,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6944,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6945,
+          "optionName" : "Title:IG-2000",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Aggressor",
+        "unitCost" : 36,
+        "unitID" : 5545,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Boba Fett",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6962,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6963,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6970,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6971,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6978,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6979,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6986,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6990,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6991,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 39,
+        "unitID" : 5546,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Kath Scarlet",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6961,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6964,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6969,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6972,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6977,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6980,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6985,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6989,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6992,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 38,
+        "unitID" : 5547,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Emon Azzameen",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6965,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6968,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6973,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6976,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6981,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6984,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6988,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6993,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 36,
+        "unitID" : 5548,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Mandalorian Mercenary",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6959,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6966,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6967,
+          "optionName" : "$Bomb",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6974,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6975,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6982,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6983,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6987,
+          "optionName" : "Title:Andrasta",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6994,
+          "optionName" : "Title:Slave I",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Firespray-31",
+        "unitCost" : 35,
+        "unitID" : 5549,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Dengar",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7051,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7052,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7059,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7060,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7067,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 7068,
+          "optionName" : "$Punishing One",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "JumpMaster 5000",
+        "unitCost" : 33,
+        "unitID" : 5550,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tel Trevura",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7050,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7053,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7058,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7061,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7066,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 7069,
+          "optionName" : "$Punishing One",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "JumpMaster 5000",
+        "unitCost" : 30,
+        "unitID" : 5551,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Manaroo",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7049,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7054,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7057,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7062,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7065,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 7070,
+          "optionName" : "$Punishing One",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "JumpMaster 5000",
+        "unitCost" : 27,
+        "unitID" : 5552,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Contracted Scout",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7048,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7055,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7056,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7063,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7064,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 12,
+          "listOfRestrictions" : null,
+          "optionID" : 7071,
+          "optionName" : "$Punishing One",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "JumpMaster 5000",
+        "unitCost" : 25,
+        "unitID" : 5553,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Ketsu Onyo",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7105,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7106,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7113,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7117,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7118,
+          "optionName" : "Title:Shadow Caster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7123,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7547,
+          "optionName" : "Gyroscopic Targeting",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lancer-class Pursuit Craft",
+        "unitCost" : 38,
+        "unitID" : 5554,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Asajj Ventress",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7104,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7107,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7112,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7116,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7119,
+          "optionName" : "Title:Shadow Caster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7122,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7546,
+          "optionName" : "Gyroscopic Targeting",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lancer-class Pursuit Craft",
+        "unitCost" : 37,
+        "unitID" : 5555,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sabine Wren",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7103,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7108,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7111,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7115,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7120,
+          "optionName" : "Title:Shadow Caster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7545,
+          "optionName" : "Gyroscopic Targeting",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lancer-class Pursuit Craft",
+        "unitCost" : 35,
+        "unitID" : 5556,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Shadowport Hunter",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7102,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7109,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7110,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7114,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 7121,
+          "optionName" : "Title:Shadow Caster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7544,
+          "optionName" : "Gyroscopic Targeting",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Lancer-class Pursuit Craft",
+        "unitCost" : 33,
+        "unitID" : 5558,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Bossk",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7317,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7321,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7322,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7329,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7330,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7337,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 7338,
+          "optionName" : "Title:Hounds Tooth",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7342,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7530,
+          "optionName" : "Manoeuvring Fins",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "YV-666",
+        "unitCost" : 35,
+        "unitID" : 5559,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Latts Razzi",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7316,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7320,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7323,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7328,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7331,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7336,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 7339,
+          "optionName" : "Title:Hounds Tooth",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7529,
+          "optionName" : "Manoeuvring Fins",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "YV-666",
+        "unitCost" : 33,
+        "unitID" : 5560,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Moralo Eval",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7315,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7319,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7324,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7327,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7332,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7335,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 7340,
+          "optionName" : "Title:Hounds Tooth",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7528,
+          "optionName" : "Manoeuvring Fins",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "YV-666",
+        "unitCost" : 34,
+        "unitID" : 5561,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Trandoshan Slaver",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7314,
+          "optionName" : "$Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7318,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7325,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7326,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7333,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7334,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 7341,
+          "optionName" : "Title:Hounds Tooth",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7527,
+          "optionName" : "Manoeuvring Fins",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "YV-666",
+        "unitCost" : 29,
+        "unitID" : 5562,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "C-ROC Cruiser",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6949,
+          "optionName" : "$Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6950,
+          "optionName" : "$Crew(Huge Ship)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6951,
+          "optionName" : "$Scum Crew",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6952,
+          "optionName" : "$Hardpoint",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6953,
+          "optionName" : "$Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6954,
+          "optionName" : "$Cargo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6955,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6956,
+          "optionName" : "Title:Insatiable Wort",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6957,
+          "optionName" : "Title:Merchant One",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6958,
+          "optionName" : "Title:Broken Horn",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7599,
+          "optionName" : "Quick-release Cargo Locks",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 7601,
+          "optionName" : "Heavy Laser Turret",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "C-ROC Cruiser",
+        "unitCost" : 35,
+        "unitID" : 5563,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Genesis Red",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7176,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7177,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7184,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7185,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7192,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7195,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 19,
+        "unitID" : 5564,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Quinn Jast",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7175,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7178,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7183,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7186,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7191,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7194,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 18,
+        "unitID" : 5565,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Inaldra",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7174,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7179,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7182,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7187,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7190,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7193,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 15,
+        "unitID" : 5566,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Sunny Bounder",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7173,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -2,
+          "listOfRestrictions" : null,
+          "optionID" : 7180,
+          "optionName" : "Title:\"Light Scyk\" Interceptor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7181,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Cannon)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7188,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Missile)",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7189,
+          "optionName" : "Title:\"Heavy Scyk\" Interceptor (Torpedo)",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 14,
+        "unitID" : 5567,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Tansarii Point Veteran",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 17,
+        "unitID" : 5568,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Cartel Spacer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "M3-A Interceptor",
+        "unitCost" : 14,
+        "unitID" : 5569,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Captain Jostero",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7092,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7093,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7096,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7097,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7100,
+          "optionName" : "Title:Vaksai",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Kihraxz Fighter",
+        "unitCost" : 24,
+        "unitID" : 7072,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Viktor Hel",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7094,
+          "optionName" : "$Illicit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7095,
+          "optionName" : "$Missile",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7098,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7099,
+          "optionName" : "Title:Vaksai",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7101,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Kihraxz Fighter",
+        "unitCost" : 25,
+        "unitID" : 7073,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Black Sun Assassin",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7300,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7304,
+          "optionName" : "$Tropedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7305,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -3,
+          "listOfRestrictions" : null,
+          "optionID" : 7308,
+          "optionName" : "Title:StarViper Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7311,
+          "optionName" : "Title:Virago",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "StarViper",
+        "unitCost" : 28,
+        "unitID" : 7281,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Thweek",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7303,
+          "optionName" : "$Tropedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7306,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -3,
+          "listOfRestrictions" : null,
+          "optionID" : 7309,
+          "optionName" : "Title:StarViper Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7312,
+          "optionName" : "Title:Virago",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "StarViper",
+        "unitCost" : 28,
+        "unitID" : 7282,
+        "autoAddDictionary" : { }
+      }, {
+        "unitName" : "Dalan Oberos",
+        "listOfOptions" : [ {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7301,
+          "optionName" : "$Elite Pilot Talent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7302,
+          "optionName" : "$Tropedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 7307,
+          "optionName" : "$Modification",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : -3,
+          "listOfRestrictions" : null,
+          "optionID" : 7310,
+          "optionName" : "Title:StarViper Mk.II",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7313,
+          "optionName" : "Title:Virago",
+          "autoAddDictionary" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "StarViper",
+        "unitCost" : 30,
+        "unitID" : 7283,
+        "autoAddDictionary" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5611,
+          "optionName" : "Maul",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5612,
+          "optionName" : "\"Gonk\"",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5613,
+          "optionName" : "Latts Razzi",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5614,
+          "optionName" : "Bossk",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5615,
+          "optionName" : "Boba Fett",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5616,
+          "optionName" : "Zuckuss",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5617,
+          "optionName" : "4-LOM",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5618,
+          "optionName" : "Greedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 5620,
+          "optionName" : "Cikatro Vizago",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5621,
+          "optionName" : "Ketsy Onyo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5622,
+          "optionName" : "IG-88D",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5623,
+          "optionName" : "Unkar Plutt",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5624,
+          "optionName" : "Dengar",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5625,
+          "optionName" : "Cad Bane",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5626,
+          "optionName" : "K4 Security Droid",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5627,
+          "optionName" : "Jabba The Hutt",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5628,
+          "optionName" : "Outlaw Tech",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Scum Crew"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 5667,
+          "optionName" : "XX-23 S-thread tracers",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5669,
+          "optionName" : "Scrambler missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 5671,
+          "optionName" : "Unguided rockets",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5673,
+          "optionName" : "Advanced homing missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5676,
+          "optionName" : "Cruise missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5678,
+          "optionName" : "Ion pulse missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 5680,
+          "optionName" : "Proton rockets",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5682,
+          "optionName" : "Cluster missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5684,
+          "optionName" : "Concussion missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 5686,
+          "optionName" : "Harpoon missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5688,
+          "optionName" : "Assault missiles",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 5690,
+          "optionName" : "Homing missiles",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Missile"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6793,
+          "optionName" : "Construction Droid",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6794,
+          "optionName" : "WED-15 Repair Droid",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6795,
+          "optionName" : "Shield Technician",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Crew(Huge Ship)"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6796,
+          "optionName" : "Gunner",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6797,
+          "optionName" : "Hotshot Co-pilot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6798,
+          "optionName" : "Flight Instructor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6799,
+          "optionName" : "Weapons Engineer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6800,
+          "optionName" : "Recon Specialist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6801,
+          "optionName" : "Navigator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6802,
+          "optionName" : "Breach Specialist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6803,
+          "optionName" : "Inspiring Recruit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6804,
+          "optionName" : "Bombadier",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6805,
+          "optionName" : "Intelligence Agent",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6806,
+          "optionName" : "Saboteur",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6807,
+          "optionName" : "Mercenary Co-pilot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6808,
+          "optionName" : "BoShek",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6809,
+          "optionName" : "Targeting Coordinator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6810,
+          "optionName" : "Operations Specialist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6811,
+          "optionName" : "Courier Droid",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6812,
+          "optionName" : "Tactician",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6813,
+          "optionName" : "Tail Gunner",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Crew"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6814,
+          "optionName" : "Twin Laser Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6815,
+          "optionName" : "Ion Cannon Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6816,
+          "optionName" : "Synced Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6817,
+          "optionName" : "Blaster Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6818,
+          "optionName" : "Dorsal Turret",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6819,
+          "optionName" : "Autoblaster Turret",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Turret"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6820,
+          "optionName" : "Ordnance Expert",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6821,
+          "optionName" : "Sensor Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6822,
+          "optionName" : "Gunnery Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6823,
+          "optionName" : "Engineering Team",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6824,
+          "optionName" : "IG-RM Thug Droids",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Team"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6825,
+          "optionName" : "Sensor Jammer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6826,
+          "optionName" : "Advanced Sensors",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6827,
+          "optionName" : "Accuracy Corrector",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6828,
+          "optionName" : "Fire Control System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6829,
+          "optionName" : "Trajectory System",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6830,
+          "optionName" : "Electronic Baffle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6831,
+          "optionName" : "Enchanced Scopes",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6832,
+          "optionName" : "Minefield Mapper",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6833,
+          "optionName" : "Collision Detector",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$System"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6834,
+          "optionName" : "R5-P8",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6835,
+          "optionName" : "R4-B11",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6836,
+          "optionName" : "Salvaged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6837,
+          "optionName" : "R4 Argomech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6838,
+          "optionName" : "R4-E1",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6839,
+          "optionName" : "Overclocked R4",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6840,
+          "optionName" : "Unhinged Astromech",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6841,
+          "optionName" : "R5-TK",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6842,
+          "optionName" : "\"Genius\"",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Salvaged Astromech"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6843,
+          "optionName" : "\"Hot Shot\" Blaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6844,
+          "optionName" : "Ion Discharger",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6845,
+          "optionName" : "EMP Device",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6846,
+          "optionName" : "Scavenger Crane",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6847,
+          "optionName" : "Feedback Array",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6848,
+          "optionName" : "Dead Man's Switch",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6849,
+          "optionName" : "Glitterstom",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6850,
+          "optionName" : "Contraband Cybernetics",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6851,
+          "optionName" : "Black Market Slicer Tools",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6852,
+          "optionName" : "Inertial Dampeners",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Illicit"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 8,
+          "listOfRestrictions" : null,
+          "optionID" : 6853,
+          "optionName" : "Single Turbolasers",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6854,
+          "optionName" : "Ion Cannon Battery",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6855,
+          "optionName" : "Quad Laser Cannons",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Hardpoint"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6857,
+          "optionName" : "Tibanna Gas Supplies",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6858,
+          "optionName" : "Ionization Reactor",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6859,
+          "optionName" : "Frequency Jammer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6860,
+          "optionName" : "Supercharged Power Cells",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6861,
+          "optionName" : "EM Emitter",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6862,
+          "optionName" : "Backup Shield Generator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6863,
+          "optionName" : "Engine Booster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 6864,
+          "optionName" : "Slicer Tools",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6865,
+          "optionName" : "Cluster Bombs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6866,
+          "optionName" : "Comms Booster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6867,
+          "optionName" : "Shield Projector",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Cargo"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 7,
+          "listOfRestrictions" : null,
+          "optionID" : 6868,
+          "optionName" : "Heavy Laser Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6869,
+          "optionName" : "Autoblaster",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6870,
+          "optionName" : "\"Mangler\" Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6871,
+          "optionName" : "Ion Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6872,
+          "optionName" : "Flechette Cannon",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6873,
+          "optionName" : "Jamming Beam",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6874,
+          "optionName" : "Tractor Beam",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7594,
+          "optionName" : "Arc Caster",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Cannon"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6875,
+          "optionName" : "Bomblet Generator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6876,
+          "optionName" : "Proton Bombs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6877,
+          "optionName" : "Conner Net",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6878,
+          "optionName" : "Cluster Mines",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6879,
+          "optionName" : "Thermal Detonators",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6880,
+          "optionName" : "Proximity Mines",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6881,
+          "optionName" : "Ion Bombs",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6882,
+          "optionName" : "Seismic Charges",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Bomb"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5,
+          "listOfRestrictions" : null,
+          "optionID" : 6883,
+          "optionName" : "Ion Torpedo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 6,
+          "listOfRestrictions" : null,
+          "optionID" : 6884,
+          "optionName" : "Advanced Proton Torpedos",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6885,
+          "optionName" : "Proton Torpedos",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6886,
+          "optionName" : "Plasma Torpedos",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6887,
+          "optionName" : "Seismic Torpedoes",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6888,
+          "optionName" : "Flechette Torpedoes",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6889,
+          "optionName" : "Extra munitions",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Torpedo"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6890,
+          "optionName" : "Opportunist",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6891,
+          "optionName" : "Expose",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6892,
+          "optionName" : "Expertise",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6893,
+          "optionName" : "Swarm Leader",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6894,
+          "optionName" : "Push The Limit",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6895,
+          "optionName" : "Predator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6896,
+          "optionName" : "Outmaneuver",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6897,
+          "optionName" : "Marksmanship",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6898,
+          "optionName" : "Daredevil",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6899,
+          "optionName" : "Wingman",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6900,
+          "optionName" : "Swarm Tactics",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6901,
+          "optionName" : "Stay On Target",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6902,
+          "optionName" : "Squad Leader",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6903,
+          "optionName" : "Snap Shot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6904,
+          "optionName" : "Lone Wolf",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6905,
+          "optionName" : "Intimidation",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6906,
+          "optionName" : "Expert Handling",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6907,
+          "optionName" : "Elusiveness",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6908,
+          "optionName" : "Decoy",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6909,
+          "optionName" : "Wired",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6910,
+          "optionName" : "Veteran Instincts",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6911,
+          "optionName" : "Saturation Salvo",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6912,
+          "optionName" : "Rage",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6913,
+          "optionName" : "Draw Their Fire",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6914,
+          "optionName" : "Determination",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6915,
+          "optionName" : "Crack shot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6916,
+          "optionName" : "Cool Hand",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6917,
+          "optionName" : "Calculation",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6918,
+          "optionName" : "Adrenaline Rush",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6919,
+          "optionName" : "Trick Shot",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6920,
+          "optionName" : "Adaptability",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6921,
+          "optionName" : "A score to settle",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7553,
+          "optionName" : "Fearlessness",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 7554,
+          "optionName" : "Attanni Mindlink",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 7555,
+          "optionName" : "Bodyguard",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Elite Pilot Talent"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6922,
+          "optionName" : "Shield Upgrade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 4,
+          "listOfRestrictions" : null,
+          "optionID" : 6923,
+          "optionName" : "Engine Upgrade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6924,
+          "optionName" : "Stealth Device",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6925,
+          "optionName" : "Hull Upgrade",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 3,
+          "listOfRestrictions" : null,
+          "optionID" : 6926,
+          "optionName" : "Experimental Interface",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6927,
+          "optionName" : "Targeting Computer",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6928,
+          "optionName" : "Stygium Particle Accelerator",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 2,
+          "listOfRestrictions" : null,
+          "optionID" : 6929,
+          "optionName" : "Advanced SLAM",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 1,
+          "listOfRestrictions" : null,
+          "optionID" : 6930,
+          "optionName" : "Munitions Failsafe",
+          "autoAddDictionary" : { }
+        }, {
+          "optionCost" : 0,
+          "listOfRestrictions" : null,
+          "optionID" : 6931,
+          "optionName" : "Guidance Chips",
+          "autoAddDictionary" : { }
+        } ],
+        "equipmentName" : "$Modification"
+      } ],
+      "armyName" : "Scum & Villainy",
+      "armyCategories" : [ "G-1A Starfighter", "HWK-290", "Kihraxz Fighter", "M3-A Interceptor", "M12-L Kimogila Fighter", "Protectorate Starfighter", "Quadjumper", "Scurrg H-6 Bomber", "StarViper", "Y-Wing", "Z-95 Headhunter", "Aggressor", "Firespray-31", "JumpMaster 5000", "Lancer-class Pursuit Craft", "YV-666", "C-ROC Cruiser" ]
+    } ],
+    "gameCategories" : [ ]
+  } ]
+}
