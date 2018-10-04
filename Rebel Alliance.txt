@@ -1,6 +1,6 @@
 {
   "games" : [ {
-    "gameName" : "X-Wing",
+    "gameName" : "XWing 1st Edition",
     "armies" : [ {
       "listOfRestrictions" : null,
       "listOfUnits" : [ {
